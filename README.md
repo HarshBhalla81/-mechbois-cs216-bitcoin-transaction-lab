@@ -7,13 +7,13 @@ To understand the creation and validation of Bitcoin transactions using Legacy (
 
 ## Project Structure
 │
-├── src/
-│ ├── legacy_p2pkh.py
-│ ├── segwit_p2sh_p2wpkh.py
-│
-├── requirements.txt
-├── README.md
-└── report.pdf
+├── src/<br>
+│ ├── legacy_p2pkh.py<br>
+│ ├── segwit_p2sh_p2wpkh.py<br>
+│<br>
+├── requirements.txt<br>
+├── README.md<br>
+└── report.pdf<br>
 
 ---
 
